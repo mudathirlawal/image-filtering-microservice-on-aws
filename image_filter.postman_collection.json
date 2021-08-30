@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "4bcf1909-8996-44b7-be35-b130ab03d12f",
-		"name": "cloud-cdnd-c2-final",
+		"name": "image-filtering-microservice-on-aws",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
